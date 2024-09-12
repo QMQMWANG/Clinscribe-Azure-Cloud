@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">azure</string>
+    <string name="button_text">Start Recording</string>
+    <string name="button_text2">Stop Record</string>
+    <string name="head">ASR (Azure Speech-to-Text API) </string>
+    <string name="textappear">Transcription will appear here </string>
+</resources>
